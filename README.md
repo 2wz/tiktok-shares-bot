@@ -1,5 +1,5 @@
-# TikTokShareBot-SpiritOfStalker
-Bot de partage illimiter EASY a utiliser
+# tiktok-shares-bot
+Tiktok shares bot
 
-TERMUX:
+USAGES :
 python ShareBot.py
